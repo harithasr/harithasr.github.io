@@ -1,33 +1,49 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"hsr_list": [{
+		"Title": "The Goal: A Process of Ongoing Improvement",
+		"Author(s)": "Eliyahu M. Goldratt, Jeff Cox",
+		"Rating": "⭐⭐⭐⭐"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Title": "Pillow Thoughts",
+		"Author(s)": "Courtney Peppernell, Rosy Bullot, Emma Batting",
+		"Rating": "⭐"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Title": "The Only Girl Living on Earth",
+		"Author(s)": "Charles Yu",
+		"Rating": "⭐⭐⭐"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Title": "Too Fat, Too Slutty, Too Loud: The Rise and Reign of the Unruly Woman",
+		"Author(s)": "Anne Helen Peterson",
+		"Rating": "⭐⭐⭐⭐"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
-	}]
+		"Title": "Born a Crime: Stories from a South African Childhoood",
+		"Author(s)": "Trevor Noah",
+		"Rating": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"Title": "So Happiness to Meet You: Foolishly, Blissfully Stranded in Vietnam",
+		"Author(s)": "Karin Esterhammer",
+		"Rating": "⭐⭐⭐⭐"
+	},
+	{
+		"Title": "The Tea Girl of Hummingbird Lane",
+		"Author(s)": "Lisa See",
+		"Rating": "⭐⭐⭐⭐⭐"
+	},
+	{
+		"Title": "Klara and The Sun",
+		"Author(s)": "Kazuo Ishiguro",
+		"Rating": "⭐⭐⭐"
+	},
+	{
+		"Title": "The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company",
+		"Author(s)": "Robert Iger, Joel Lovell",
+		"Rating": "⭐⭐⭐⭐⭐"
+	},
+]
 	
 }
